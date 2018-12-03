@@ -1,0 +1,25 @@
+教程：
+https://gitlab.kitware.com/cmake/community/wikis/home
+http://www.hahack.com/codes/cmake/
+
+
+cmake_minimum_required
+project
+add_executable
+aux_source_directory
+add_subdirectory
+target_link_libraries
+
+cmake   make
+
+
+cmake常见用法：
+https://www.jianshu.com/p/06c30bcc6f82
+https://www.jianshu.com/p/1ec2b5602b03
+
+cmake常见内置变量：
+https://www.kancloud.cn/itfanr/cmake-practice/82989
+https://cmake.org/cmake/help/latest/manual/cmake-variables.7.html
+
+
+

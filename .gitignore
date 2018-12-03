@@ -1,1 +1,6 @@
 build/
+.idea/cmake-demo.iml
+.idea/misc.xml
+.idea/modules.xml
+.idea/workspace.xml
+.idea/codeStyles/Project.xml
